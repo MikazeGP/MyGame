@@ -1,0 +1,43 @@
+{
+  "enemies": [
+    {"frame": 60,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+    {"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	
+	{"frame": 60,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+    {"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+
+	{"frame": 60,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+    {"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+
+	{"frame": 420,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+    {"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0}
+  ]
+}

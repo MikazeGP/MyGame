@@ -1,0 +1,89 @@
+Mono path[0] = 'C:/Users/Shimomura Keishi/Desktop/TohoShooting/Testbeta_Data/Managed'
+Mono path[1] = 'C:/Users/Shimomura Keishi/Desktop/TohoShooting/Testbeta_Data/Mono'
+Mono config path = 'C:/Users/Shimomura Keishi/Desktop/TohoShooting/Testbeta_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Shimomura Keishi/Desktop/TohoShooting/Testbeta_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55316
+Multi-casting "[IP] 192.168.1.64 [Port] 55316 [Flags] 2 [Guid] 1122724753 [EditorId] 410368836 [Version] 1048832 [Id] WindowsPlayer(shimomura-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.64:55316]
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 6100 (ID=0x162b)
+    Vendor:   Intel
+    VRAM:     2151 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Shimomura Keishi\Desktop\TohoShooting\Testbeta_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1600 60Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.185562 ms
+{
+  "enemies": [
+    {"frame": 60,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+    {"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 2,"bulletptn": 0,"enetype": 0,"posX": -2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	
+	{"frame": 60,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+    {"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 20,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 3.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+	{"frame": 0,"moveptn": 1,"bulletptn": 0,"enetype": 0,"posX": 2.0,"posY": 4.6,"speed": 2.5,"direction": 270,"angle": 0},
+
+	{"frame": 60,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+    {"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+	{"frame": 20,"moveptn": 3,"bulletptn": 0,"enetype": 0,"posX": -4.3,"posY": 3,"speed": 2.5,"direction": 0,"angle": 0},
+
+	{"frame": 420,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+    {"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0},
+	{"frame": 20,"moveptn": 4,"bulletptn": 0,"enetype": 0,"posX": 4.3,"posY": 3,"speed": 2.5,"direction": 180,"angle": 0}
+  ]
+}
+
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\UnityEngineMonoBehaviourBindings.gen.cs:107)
+<Generation>c__Iterator3:MoveNext() (at C:\Users\Shimomura Keishi\Desktop\TohoShooting\Assets\Script\utility\LoadJson.cs:48)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineMonoBehaviourBindings.gen.cs Line: 107)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 26ac -> priority: 1 

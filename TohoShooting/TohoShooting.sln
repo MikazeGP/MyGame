@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TohoShooting.CSharp", "TohoShooting.CSharp.csproj", "{0E4279C4-AB99-E76E-9FED-8AC64D5CE9BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TohoShooting.CSharp.Editor", "TohoShooting.CSharp.Editor.csproj", "{11ADF32B-8070-A2AD-D2DD-B542C58ADDB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E4279C4-AB99-E76E-9FED-8AC64D5CE9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4279C4-AB99-E76E-9FED-8AC64D5CE9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4279C4-AB99-E76E-9FED-8AC64D5CE9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4279C4-AB99-E76E-9FED-8AC64D5CE9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11ADF32B-8070-A2AD-D2DD-B542C58ADDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ADF32B-8070-A2AD-D2DD-B542C58ADDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ADF32B-8070-A2AD-D2DD-B542C58ADDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ADF32B-8070-A2AD-D2DD-B542C58ADDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
